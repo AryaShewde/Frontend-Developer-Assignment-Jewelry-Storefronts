@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%">
+    <rect width="400" height="400" fill="#f8f5fb"/>
+    <!-- Subtle inner vignette frame -->
+    <rect x="12" y="12" width="376" height="376" rx="8" fill="none" stroke="#c5a059" stroke-opacity="0.15" stroke-width="1"/>
+    
+      <defs>
+        <linearGradient id="bandGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#826322"/>
+          <stop offset="35%" stop-color="#c5a059"/>
+          <stop offset="65%" stop-color="#ffffff" stop-opacity="0.9"/>
+          <stop offset="100%" stop-color="#826322"/>
+        </linearGradient>
+        <radialGradient id="gemGrad" cx="40%" cy="35%" r="60%">
+          <stop offset="0%" stop-color="#ffffff"/>
+          <stop offset="45%" stop-color="#0284c7"/>
+          <stop offset="100%" stop-color="#0284c7"/>
+        </radialGradient>
+      </defs>
+
+      <g >
+        <!-- Ring Shank/Band -->
+        <ellipse cx="200" cy="250" rx="95" ry="85" fill="none" stroke="url(#bandGrad)" stroke-width="22" stroke-linecap="round"/>
+        <ellipse cx="200" cy="250" rx="95" ry="85" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.4"/>
+        <ellipse cx="200" cy="250" rx="84" ry="74" fill="none" stroke="#f8f5fb" stroke-width="4"/>
+
+        <!-- Prongs Base -->
+        <rect x="188" y="152" width="24" height="20" rx="4" fill="url(#bandGrad)"/>
+        <path d="M178,160 L188,140 L212,140 L222,160 Z" fill="#c5a059" stroke="#826322" stroke-width="1.5"/>
+
+        <!-- Center Gemstone -->
+        
+      <g transform="translate(200, 136)">
+        <ellipse cx="0" cy="0" rx="42" ry="32" fill="url(#gemGrad)" stroke="#0284c7" stroke-width="2"/>
+        <ellipse cx="0" cy="0" rx="28" ry="20" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.75"/>
+        <polygon points="0,-20 18,-6 14,14 -14,14 -18,-6" fill="#ffffff" opacity="0.35"/>
+        <!-- sparkle star -->
+        <path d="M-10,-10 L-7,-3 L0,0 L-7,3 L-10,10 L-13,3 L-20,0 L-13,-3 Z" fill="#f472b6" opacity="0.7"/>
+      </g>
+    
+
+        <!-- Prongs Tips -->
+        <circle cx="178" cy="120" r="4" fill="url(#bandGrad)"/>
+        <circle cx="222" cy="120" r="4" fill="url(#bandGrad)"/>
+        <circle cx="178" cy="155" r="4" fill="url(#bandGrad)"/>
+        <circle cx="222" cy="155" r="4" fill="url(#bandGrad)"/>
+      </g>
+    
+  </svg>

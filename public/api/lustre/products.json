@@ -1,0 +1,1017 @@
+[
+  {
+    "id": "lus-001",
+    "slug": "prism-round-solitaire",
+    "brandId": "lustre",
+    "name": "Prism Pure Moissanite Solitaire Ring",
+    "description": "A 2.0-carat Diamond Equivalent Weight (DEW) hearts-and-arrows round moissanite engineered for maximum dispersion and fire, held in four crisp compass prongs.",
+    "shortDescription": "2.0ct DEW hearts & arrows round moissanite in compass prongs",
+    "category": "Moissanite Rings",
+    "subcategory": "Solitaire",
+    "price": 850,
+    "compareAtPrice": 1050,
+    "metal": "950 Platinum",
+    "gemstone": "DEF Colorless Moissanite",
+    "stoneDetails": {
+      "type": "Silicon Carbide Moissanite",
+      "cut": "Hearts & Arrows Round Brilliant",
+      "carat": 2,
+      "color": "DEF Colorless",
+      "clarity": "VVS1",
+      "certificate": "GRA Certified"
+    },
+    "rating": 4.9,
+    "reviewCount": 64,
+    "tags": [
+      "bestseller",
+      "solitaire",
+      "minimalist",
+      "high-fire"
+    ],
+    "featured": true,
+    "variants": [
+      {
+        "id": "lus-001-v1",
+        "sku": "LUS-001-PLAT-6",
+        "name": "Platinum / Size 6",
+        "price": 850,
+        "inStock": true,
+        "metal": "Platinum",
+        "size": "6"
+      },
+      {
+        "id": "lus-001-v2",
+        "sku": "LUS-001-PLAT-7",
+        "name": "Platinum / Size 7",
+        "price": 850,
+        "inStock": true,
+        "metal": "Platinum",
+        "size": "7"
+      },
+      {
+        "id": "lus-001-v3",
+        "sku": "LUS-001-14KWG-6",
+        "name": "14k White Gold / Size 6",
+        "price": 720,
+        "inStock": true,
+        "metal": "14k White Gold",
+        "size": "6"
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Center Stone",
+        "value": "2.00 Carat DEW (8.0mm)"
+      },
+      {
+        "label": "Refractive Index",
+        "value": "2.65 - 2.69 (higher fire than diamond)"
+      },
+      {
+        "label": "Prong Geometry",
+        "value": "Precision North-South-East-West Compass"
+      }
+    ],
+    "images": [
+      {
+        "id": "lus-001-img-1",
+        "url": "/images/products/lustre/lus-001-1.svg",
+        "alt": "Prism Pure Moissanite Solitaire Ring - View 1 (Primary Front View)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": true
+      },
+      {
+        "id": "lus-001-img-2",
+        "url": "/images/products/lustre/lus-001-2.svg",
+        "alt": "Prism Pure Moissanite Solitaire Ring - View 2 (Angle Perspective)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      },
+      {
+        "id": "lus-001-img-3",
+        "url": "/images/products/lustre/lus-001-3.svg",
+        "alt": "Prism Pure Moissanite Solitaire Ring - View 3 (Detail Close-Up)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      }
+    ],
+    "createdAt": "2024-01-15T00:00:00.000Z",
+    "updatedAt": "2026-10-17T09:04:25.684Z"
+  },
+  {
+    "id": "lus-002",
+    "slug": "nova-emerald-cut-ring",
+    "brandId": "lustre",
+    "name": "Nova Emerald Cut Architectural Ring",
+    "description": "A clean 3.0-carat DEW elongated emerald cut moissanite set within an ultra-flat sharp platinum wire band with an open pavilion gallery.",
+    "shortDescription": "3.0ct DEW emerald cut moissanite in architectural band",
+    "category": "Moissanite Rings",
+    "subcategory": "Emerald Cut",
+    "price": 1150,
+    "compareAtPrice": 1350,
+    "metal": "950 Platinum",
+    "gemstone": "DEF Colorless Moissanite",
+    "stoneDetails": {
+      "type": "Silicon Carbide Moissanite",
+      "cut": "Step-Cut Emerald",
+      "carat": 3,
+      "color": "DEF Colorless",
+      "clarity": "VVS1",
+      "certificate": "GRA Certified"
+    },
+    "rating": 5,
+    "reviewCount": 41,
+    "tags": [
+      "bestseller",
+      "emerald-cut",
+      "architectural"
+    ],
+    "featured": true,
+    "variants": [
+      {
+        "id": "lus-002-v1",
+        "sku": "LUS-002-PLAT-6",
+        "name": "Platinum / Size 6",
+        "price": 1150,
+        "inStock": true,
+        "metal": "Platinum",
+        "size": "6"
+      },
+      {
+        "id": "lus-002-v2",
+        "sku": "LUS-002-PLAT-7",
+        "name": "Platinum / Size 7",
+        "price": 1150,
+        "inStock": true,
+        "metal": "Platinum",
+        "size": "7"
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Center Stone",
+        "value": "3.00 Carat DEW (9.5 x 7.0mm)"
+      },
+      {
+        "label": "Cut Quality",
+        "value": "Optically Pure Stepped Facets"
+      },
+      {
+        "label": "Band Profile",
+        "value": "1.6mm knife-edge solid platinum"
+      }
+    ],
+    "images": [
+      {
+        "id": "lus-002-img-1",
+        "url": "/images/products/lustre/lus-002-1.svg",
+        "alt": "Nova Emerald Cut Architectural Ring - View 1 (Primary Front View)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": true
+      },
+      {
+        "id": "lus-002-img-2",
+        "url": "/images/products/lustre/lus-002-2.svg",
+        "alt": "Nova Emerald Cut Architectural Ring - View 2 (Angle Perspective)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      },
+      {
+        "id": "lus-002-img-3",
+        "url": "/images/products/lustre/lus-002-3.svg",
+        "alt": "Nova Emerald Cut Architectural Ring - View 3 (Detail Close-Up)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      }
+    ],
+    "createdAt": "2024-01-15T00:00:00.000Z",
+    "updatedAt": "2026-10-17T09:04:25.684Z"
+  },
+  {
+    "id": "lus-003",
+    "slug": "vortex-radiant-halo",
+    "brandId": "lustre",
+    "name": "Vortex Radiant Floating Halo Ring",
+    "description": "A 2.50-carat DEW radiant-cut moissanite that bursts with rainbow scintillation, underscored by a floating square micro-pavé collar.",
+    "shortDescription": "2.50ct DEW radiant cut with floating pavé collar",
+    "category": "Moissanite Rings",
+    "subcategory": "Halo",
+    "price": 1280,
+    "metal": "14k White Gold",
+    "gemstone": "DEF Colorless Moissanite",
+    "stoneDetails": {
+      "type": "Silicon Carbide Moissanite",
+      "cut": "Radiant Cut",
+      "carat": 2.5,
+      "color": "DEF Colorless",
+      "clarity": "VVS1",
+      "certificate": "GRA Certified"
+    },
+    "rating": 4.8,
+    "reviewCount": 35,
+    "tags": [
+      "radiant",
+      "halo",
+      "scintillation"
+    ],
+    "featured": true,
+    "variants": [
+      {
+        "id": "lus-003-v1",
+        "sku": "LUS-003-14KWG-6",
+        "name": "14k White Gold / Size 6",
+        "price": 1280,
+        "inStock": true,
+        "metal": "14k White Gold",
+        "size": "6"
+      },
+      {
+        "id": "lus-003-v2",
+        "sku": "LUS-003-14KWG-7",
+        "name": "14k White Gold / Size 7",
+        "price": 1280,
+        "inStock": false,
+        "metal": "14k White Gold",
+        "size": "7"
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Center Stone",
+        "value": "2.50 Carat DEW (8.5 x 6.5mm)"
+      },
+      {
+        "label": "Halo Accents",
+        "value": "0.30ctw micro-cut moissanite gems"
+      }
+    ],
+    "images": [
+      {
+        "id": "lus-003-img-1",
+        "url": "/images/products/lustre/lus-003-1.svg",
+        "alt": "Vortex Radiant Floating Halo Ring - View 1 (Primary Front View)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": true
+      },
+      {
+        "id": "lus-003-img-2",
+        "url": "/images/products/lustre/lus-003-2.svg",
+        "alt": "Vortex Radiant Floating Halo Ring - View 2 (Angle Perspective)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      },
+      {
+        "id": "lus-003-img-3",
+        "url": "/images/products/lustre/lus-003-3.svg",
+        "alt": "Vortex Radiant Floating Halo Ring - View 3 (Detail Close-Up)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      }
+    ],
+    "createdAt": "2024-01-15T00:00:00.000Z",
+    "updatedAt": "2026-10-17T09:04:25.684Z"
+  },
+  {
+    "id": "lus-004",
+    "slug": "stellar-cushion-ring",
+    "brandId": "lustre",
+    "name": "Stellar Elongated Cushion Ring",
+    "description": "A 2.20-carat DEW elongated cushion moissanite cut with antique barion facet patterns, mounted on a solid 14k white gold comfort shank.",
+    "shortDescription": "2.20ct DEW elongated cushion in minimalist basket",
+    "category": "Moissanite Rings",
+    "subcategory": "Cushion",
+    "price": 940,
+    "metal": "14k White Gold",
+    "gemstone": "DEF Colorless Moissanite",
+    "stoneDetails": {
+      "type": "Silicon Carbide Moissanite",
+      "cut": "Elongated Cushion Brilliant",
+      "carat": 2.2,
+      "color": "DEF Colorless",
+      "clarity": "VVS1",
+      "certificate": "GRA Certified"
+    },
+    "rating": 4.9,
+    "reviewCount": 29,
+    "tags": [
+      "cushion",
+      "elongated",
+      "fire"
+    ],
+    "featured": true,
+    "variants": [
+      {
+        "id": "lus-004-v1",
+        "sku": "LUS-004-14KWG-6",
+        "name": "14k White Gold / Size 6",
+        "price": 940,
+        "inStock": true,
+        "metal": "14k White Gold",
+        "size": "6"
+      },
+      {
+        "id": "lus-004-v2",
+        "sku": "LUS-004-14KWG-7",
+        "name": "14k White Gold / Size 7",
+        "price": 940,
+        "inStock": true,
+        "metal": "14k White Gold",
+        "size": "7"
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Center Stone",
+        "value": "2.20 Carat DEW Cushion"
+      },
+      {
+        "label": "Optical Dispersion",
+        "value": "0.104 (2.4x diamond)"
+      }
+    ],
+    "images": [
+      {
+        "id": "lus-004-img-1",
+        "url": "/images/products/lustre/lus-004-1.svg",
+        "alt": "Stellar Elongated Cushion Ring - View 1 (Primary Front View)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": true
+      },
+      {
+        "id": "lus-004-img-2",
+        "url": "/images/products/lustre/lus-004-2.svg",
+        "alt": "Stellar Elongated Cushion Ring - View 2 (Angle Perspective)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      },
+      {
+        "id": "lus-004-img-3",
+        "url": "/images/products/lustre/lus-004-3.svg",
+        "alt": "Stellar Elongated Cushion Ring - View 3 (Detail Close-Up)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      }
+    ],
+    "createdAt": "2024-01-15T00:00:00.000Z",
+    "updatedAt": "2026-10-17T09:04:25.684Z"
+  },
+  {
+    "id": "lus-005",
+    "slug": "monolith-east-west-ring",
+    "brandId": "lustre",
+    "name": "Monolith East-West Bezel Ring",
+    "description": "A sharp, industrial-luxe statement featuring a 2.80-carat DEW emerald moissanite set horizontally in a heavy flush platinum bezel.",
+    "shortDescription": "2.80ct DEW horizontal emerald cut in heavy bezel",
+    "category": "Moissanite Rings",
+    "subcategory": "Bezel",
+    "price": 1350,
+    "metal": "950 Platinum",
+    "gemstone": "DEF Colorless Moissanite",
+    "stoneDetails": {
+      "type": "Silicon Carbide Moissanite",
+      "cut": "Emerald Cut",
+      "carat": 2.8,
+      "color": "DEF Colorless",
+      "clarity": "VVS1",
+      "certificate": "GRA Certified"
+    },
+    "rating": 4.9,
+    "reviewCount": 19,
+    "tags": [
+      "bezel",
+      "east-west",
+      "modern"
+    ],
+    "featured": false,
+    "variants": [
+      {
+        "id": "lus-005-v1",
+        "sku": "LUS-005-PLAT-6",
+        "name": "Platinum / Size 6",
+        "price": 1350,
+        "inStock": true,
+        "metal": "Platinum",
+        "size": "6"
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Center Stone",
+        "value": "2.80 Carat DEW Emerald Cut"
+      },
+      {
+        "label": "Bezel Profile",
+        "value": "Precision CNC-milled 950 Platinum"
+      }
+    ],
+    "images": [
+      {
+        "id": "lus-005-img-1",
+        "url": "/images/products/lustre/lus-005-1.svg",
+        "alt": "Monolith East-West Bezel Ring - View 1 (Primary Front View)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": true
+      },
+      {
+        "id": "lus-005-img-2",
+        "url": "/images/products/lustre/lus-005-2.svg",
+        "alt": "Monolith East-West Bezel Ring - View 2 (Angle Perspective)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      },
+      {
+        "id": "lus-005-img-3",
+        "url": "/images/products/lustre/lus-005-3.svg",
+        "alt": "Monolith East-West Bezel Ring - View 3 (Detail Close-Up)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      }
+    ],
+    "createdAt": "2024-01-15T00:00:00.000Z",
+    "updatedAt": "2026-10-17T09:04:25.684Z"
+  },
+  {
+    "id": "lus-006",
+    "slug": "eclipse-oval-ring",
+    "brandId": "lustre",
+    "name": "Eclipse Minimalist Oval Ring",
+    "description": "An elongated 2.40-carat DEW oval moissanite perched upon an ultra-fine 1.5mm wire band, providing an illusion of a diamond floating on air.",
+    "shortDescription": "2.40ct DEW oval moissanite on 1.5mm wire band",
+    "category": "Moissanite Rings",
+    "subcategory": "Oval",
+    "price": 990,
+    "compareAtPrice": 1150,
+    "metal": "14k White Gold",
+    "gemstone": "DEF Colorless Moissanite",
+    "stoneDetails": {
+      "type": "Silicon Carbide Moissanite",
+      "cut": "Oval Brilliant",
+      "carat": 2.4,
+      "color": "DEF Colorless",
+      "clarity": "VVS1",
+      "certificate": "GRA Certified"
+    },
+    "rating": 4.8,
+    "reviewCount": 43,
+    "tags": [
+      "oval",
+      "minimalist",
+      "bestseller"
+    ],
+    "featured": false,
+    "variants": [
+      {
+        "id": "lus-006-v1",
+        "sku": "LUS-006-14KWG-6",
+        "name": "14k White Gold / Size 6",
+        "price": 990,
+        "inStock": true,
+        "metal": "14k White Gold",
+        "size": "6"
+      },
+      {
+        "id": "lus-006-v2",
+        "sku": "LUS-006-14KWG-7",
+        "name": "14k White Gold / Size 7",
+        "price": 990,
+        "inStock": true,
+        "metal": "14k White Gold",
+        "size": "7"
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Center Stone",
+        "value": "2.40 Carat DEW Oval (10 x 7mm)"
+      },
+      {
+        "label": "Band Thickness",
+        "value": "1.5 mm solid gold wire"
+      }
+    ],
+    "images": [
+      {
+        "id": "lus-006-img-1",
+        "url": "/images/products/lustre/lus-006-1.svg",
+        "alt": "Eclipse Minimalist Oval Ring - View 1 (Primary Front View)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": true
+      },
+      {
+        "id": "lus-006-img-2",
+        "url": "/images/products/lustre/lus-006-2.svg",
+        "alt": "Eclipse Minimalist Oval Ring - View 2 (Angle Perspective)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      },
+      {
+        "id": "lus-006-img-3",
+        "url": "/images/products/lustre/lus-006-3.svg",
+        "alt": "Eclipse Minimalist Oval Ring - View 3 (Detail Close-Up)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      }
+    ],
+    "createdAt": "2024-01-15T00:00:00.000Z",
+    "updatedAt": "2026-10-17T09:04:25.684Z"
+  },
+  {
+    "id": "lus-007",
+    "slug": "spectre-pear-ring",
+    "brandId": "lustre",
+    "name": "Spectre Pear Cut Knife-Edge Ring",
+    "description": "A 2.0-carat DEW teardrop pear moissanite with razor-sharp facet definition, mounted on an architectural knife-edge platinum shank.",
+    "shortDescription": "2.0ct DEW pear moissanite on knife-edge shank",
+    "category": "Moissanite Rings",
+    "subcategory": "Pear",
+    "price": 1020,
+    "metal": "950 Platinum",
+    "gemstone": "DEF Colorless Moissanite",
+    "stoneDetails": {
+      "type": "Silicon Carbide Moissanite",
+      "cut": "Pear Brilliant",
+      "carat": 2,
+      "color": "DEF Colorless",
+      "clarity": "VVS1",
+      "certificate": "GRA Certified"
+    },
+    "rating": 4.7,
+    "reviewCount": 18,
+    "tags": [
+      "pear",
+      "knife-edge"
+    ],
+    "featured": false,
+    "variants": [
+      {
+        "id": "lus-007-v1",
+        "sku": "LUS-007-PLAT-6",
+        "name": "Platinum / Size 6",
+        "price": 1020,
+        "inStock": true,
+        "metal": "Platinum",
+        "size": "6"
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Center Stone",
+        "value": "2.00 Carat DEW Pear Cut"
+      },
+      {
+        "label": "Safety Feature",
+        "value": "V-tip chevron prong for point protection"
+      }
+    ],
+    "images": [
+      {
+        "id": "lus-007-img-1",
+        "url": "/images/products/lustre/lus-007-1.svg",
+        "alt": "Spectre Pear Cut Knife-Edge Ring - View 1 (Primary Front View)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": true
+      },
+      {
+        "id": "lus-007-img-2",
+        "url": "/images/products/lustre/lus-007-2.svg",
+        "alt": "Spectre Pear Cut Knife-Edge Ring - View 2 (Angle Perspective)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      },
+      {
+        "id": "lus-007-img-3",
+        "url": "/images/products/lustre/lus-007-3.svg",
+        "alt": "Spectre Pear Cut Knife-Edge Ring - View 3 (Detail Close-Up)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      }
+    ],
+    "createdAt": "2024-01-15T00:00:00.000Z",
+    "updatedAt": "2026-10-17T09:04:25.684Z"
+  },
+  {
+    "id": "lus-008",
+    "slug": "vector-marquise-ring",
+    "brandId": "lustre",
+    "name": "Vector Modern Marquise Ring",
+    "description": "A 1.80-carat DEW marquise moissanite suspended horizontally between bold geometric open claws for a high-concept silhouette.",
+    "shortDescription": "1.80ct DEW marquise in geometric open claws",
+    "category": "Moissanite Rings",
+    "subcategory": "Marquise",
+    "price": 890,
+    "metal": "14k White Gold",
+    "gemstone": "DEF Colorless Moissanite",
+    "stoneDetails": {
+      "type": "Silicon Carbide Moissanite",
+      "cut": "Marquise Brilliant",
+      "carat": 1.8,
+      "color": "DEF Colorless",
+      "clarity": "VVS1",
+      "certificate": "GRA Certified"
+    },
+    "rating": 4.8,
+    "reviewCount": 14,
+    "tags": [
+      "marquise",
+      "geometric"
+    ],
+    "featured": false,
+    "variants": [
+      {
+        "id": "lus-008-v1",
+        "sku": "LUS-008-14KWG-6",
+        "name": "14k White Gold / Size 6",
+        "price": 890,
+        "inStock": true,
+        "metal": "14k White Gold",
+        "size": "6"
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Center Stone",
+        "value": "1.80 Carat DEW Marquise"
+      },
+      {
+        "label": "Setting Design",
+        "value": "Open pavilion geometric architecture"
+      }
+    ],
+    "images": [
+      {
+        "id": "lus-008-img-1",
+        "url": "/images/products/lustre/lus-008-1.svg",
+        "alt": "Vector Modern Marquise Ring - View 1 (Primary Front View)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": true
+      },
+      {
+        "id": "lus-008-img-2",
+        "url": "/images/products/lustre/lus-008-2.svg",
+        "alt": "Vector Modern Marquise Ring - View 2 (Angle Perspective)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      },
+      {
+        "id": "lus-008-img-3",
+        "url": "/images/products/lustre/lus-008-3.svg",
+        "alt": "Vector Modern Marquise Ring - View 3 (Detail Close-Up)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      }
+    ],
+    "createdAt": "2024-01-15T00:00:00.000Z",
+    "updatedAt": "2026-10-17T09:04:25.684Z"
+  },
+  {
+    "id": "lus-009",
+    "slug": "supernova-stud-earrings",
+    "brandId": "lustre",
+    "name": "Supernova Round Moissanite Stud Earrings",
+    "description": "A pair of matched 1.0-carat DEW round brilliant moissanite stones (2.0ctw total) set in ultra-low profile 3-prong martini settings with secure screw backs.",
+    "shortDescription": "2.0ctw matched hearts & arrows moissanite studs",
+    "category": "Moissanite Earrings",
+    "subcategory": "Studs",
+    "price": 680,
+    "compareAtPrice": 850,
+    "metal": "950 Platinum",
+    "gemstone": "DEF Colorless Moissanite",
+    "stoneDetails": {
+      "type": "Silicon Carbide Moissanite",
+      "cut": "Hearts & Arrows Round",
+      "carat": 2,
+      "color": "DEF Colorless",
+      "clarity": "VVS1",
+      "certificate": "GRA Certified"
+    },
+    "rating": 5,
+    "reviewCount": 78,
+    "tags": [
+      "bestseller",
+      "earrings",
+      "studs",
+      "classic"
+    ],
+    "featured": false,
+    "variants": [
+      {
+        "id": "lus-009-v1",
+        "sku": "LUS-009-PLAT-STD",
+        "name": "Platinum / Screw Backs",
+        "price": 680,
+        "inStock": true,
+        "metal": "Platinum"
+      },
+      {
+        "id": "lus-009-v2",
+        "sku": "LUS-009-14KWG-STD",
+        "name": "14k White Gold / Push Backs",
+        "price": 550,
+        "inStock": true,
+        "metal": "14k White Gold"
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Total Carat Weight",
+        "value": "2.00ctw (1.0ct / 6.5mm each ear)"
+      },
+      {
+        "label": "Setting Style",
+        "value": "Low Profile 3-Prong Martini"
+      },
+      {
+        "label": "Backing",
+        "value": "Double notched threaded posts"
+      }
+    ],
+    "images": [
+      {
+        "id": "lus-009-img-1",
+        "url": "/images/products/lustre/lus-009-1.svg",
+        "alt": "Supernova Round Moissanite Stud Earrings - View 1 (Primary Front View)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": true
+      },
+      {
+        "id": "lus-009-img-2",
+        "url": "/images/products/lustre/lus-009-2.svg",
+        "alt": "Supernova Round Moissanite Stud Earrings - View 2 (Angle Perspective)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      },
+      {
+        "id": "lus-009-img-3",
+        "url": "/images/products/lustre/lus-009-3.svg",
+        "alt": "Supernova Round Moissanite Stud Earrings - View 3 (Detail Close-Up)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      }
+    ],
+    "createdAt": "2024-01-15T00:00:00.000Z",
+    "updatedAt": "2026-10-17T09:04:25.684Z"
+  },
+  {
+    "id": "lus-010",
+    "slug": "linear-drop-earrings",
+    "brandId": "lustre",
+    "name": "Linear Emerald Cut Drop Earrings",
+    "description": "Two matched 1.60-carat DEW emerald-cut moissanite gems dangling elegantly from sleek solid white gold bars that catch light with every gesture.",
+    "shortDescription": "3.20ctw emerald cut moissanite bar drops",
+    "category": "Moissanite Earrings",
+    "subcategory": "Drops",
+    "price": 1100,
+    "metal": "14k White Gold",
+    "gemstone": "DEF Colorless Moissanite",
+    "stoneDetails": {
+      "type": "Silicon Carbide Moissanite",
+      "cut": "Emerald Cut",
+      "carat": 3.2,
+      "color": "DEF Colorless",
+      "clarity": "VVS1",
+      "certificate": "GRA Certified"
+    },
+    "rating": 4.9,
+    "reviewCount": 23,
+    "tags": [
+      "earrings",
+      "drops",
+      "statement"
+    ],
+    "featured": false,
+    "variants": [
+      {
+        "id": "lus-010-v1",
+        "sku": "LUS-010-14KWG-PAIR",
+        "name": "14k White Gold / Pair",
+        "price": 1100,
+        "inStock": true,
+        "metal": "14k White Gold"
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Total Carat Weight",
+        "value": "3.20ctw (1.60ct each)"
+      },
+      {
+        "label": "Drop Length",
+        "value": "28 mm total articulated drop"
+      }
+    ],
+    "images": [
+      {
+        "id": "lus-010-img-1",
+        "url": "/images/products/lustre/lus-010-1.svg",
+        "alt": "Linear Emerald Cut Drop Earrings - View 1 (Primary Front View)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": true
+      },
+      {
+        "id": "lus-010-img-2",
+        "url": "/images/products/lustre/lus-010-2.svg",
+        "alt": "Linear Emerald Cut Drop Earrings - View 2 (Angle Perspective)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      },
+      {
+        "id": "lus-010-img-3",
+        "url": "/images/products/lustre/lus-010-3.svg",
+        "alt": "Linear Emerald Cut Drop Earrings - View 3 (Detail Close-Up)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      }
+    ],
+    "createdAt": "2024-01-15T00:00:00.000Z",
+    "updatedAt": "2026-10-17T09:04:25.684Z"
+  },
+  {
+    "id": "lus-011",
+    "slug": "astral-cushion-halo-earrings",
+    "brandId": "lustre",
+    "name": "Astral Cushion Halo Stud Earrings",
+    "description": "Matched 1.0-carat cushion-cut moissanite centers wrapped in a sharp geometric micro-halo for unforgettable brilliance and high-contrast impact.",
+    "shortDescription": "2.50ctw cushion cut halo moissanite studs",
+    "category": "Moissanite Earrings",
+    "subcategory": "Halo Studs",
+    "price": 890,
+    "compareAtPrice": 1050,
+    "metal": "14k White Gold",
+    "gemstone": "DEF Colorless Moissanite",
+    "stoneDetails": {
+      "type": "Silicon Carbide Moissanite",
+      "cut": "Cushion Cut",
+      "carat": 2.5,
+      "color": "DEF Colorless",
+      "clarity": "VVS1",
+      "certificate": "GRA Certified"
+    },
+    "rating": 4.8,
+    "reviewCount": 31,
+    "tags": [
+      "earrings",
+      "halo",
+      "cushion"
+    ],
+    "featured": false,
+    "variants": [
+      {
+        "id": "lus-011-v1",
+        "sku": "LUS-011-14KWG-PAIR",
+        "name": "14k White Gold / Pair",
+        "price": 890,
+        "inStock": true,
+        "metal": "14k White Gold"
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Total Carat Weight",
+        "value": "2.50ctw total"
+      },
+      {
+        "label": "Diameter",
+        "value": "9.2 mm outer halo diameter"
+      }
+    ],
+    "images": [
+      {
+        "id": "lus-011-img-1",
+        "url": "/images/products/lustre/lus-011-1.svg",
+        "alt": "Astral Cushion Halo Stud Earrings - View 1 (Primary Front View)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": true
+      },
+      {
+        "id": "lus-011-img-2",
+        "url": "/images/products/lustre/lus-011-2.svg",
+        "alt": "Astral Cushion Halo Stud Earrings - View 2 (Angle Perspective)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      },
+      {
+        "id": "lus-011-img-3",
+        "url": "/images/products/lustre/lus-011-3.svg",
+        "alt": "Astral Cushion Halo Stud Earrings - View 3 (Detail Close-Up)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      }
+    ],
+    "createdAt": "2024-01-15T00:00:00.000Z",
+    "updatedAt": "2026-10-17T09:04:25.684Z"
+  },
+  {
+    "id": "lus-012",
+    "slug": "orion-huggie-hoops",
+    "brandId": "lustre",
+    "name": "Orion Channel-Set Moissanite Huggie Hoops",
+    "description": "A pair of modern 14mm huggie hoop earrings channel-set with 1.60-carat total weight precision princess-cut moissanite gems in platinum.",
+    "shortDescription": "1.60ctw princess cut moissanite huggie hoops",
+    "category": "Moissanite Earrings",
+    "subcategory": "Hoops",
+    "price": 790,
+    "metal": "950 Platinum",
+    "gemstone": "DEF Colorless Moissanite",
+    "stoneDetails": {
+      "type": "Silicon Carbide Moissanite",
+      "cut": "Princess Cut",
+      "carat": 1.6,
+      "color": "DEF Colorless",
+      "clarity": "VVS1",
+      "certificate": "GRA Certified"
+    },
+    "rating": 4.9,
+    "reviewCount": 45,
+    "tags": [
+      "earrings",
+      "hoops",
+      "channel-set"
+    ],
+    "featured": false,
+    "variants": [
+      {
+        "id": "lus-012-v1",
+        "sku": "LUS-012-PLAT-PAIR",
+        "name": "Platinum / Pair",
+        "price": 790,
+        "inStock": true,
+        "metal": "Platinum"
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Total Weight",
+        "value": "1.60ctw Princess Moissanite"
+      },
+      {
+        "label": "Hoop Diameter",
+        "value": "14 mm outer / 11 mm inner"
+      },
+      {
+        "label": "Closure",
+        "value": "Seamless click-latch closure"
+      }
+    ],
+    "images": [
+      {
+        "id": "lus-012-img-1",
+        "url": "/images/products/lustre/lus-012-1.svg",
+        "alt": "Orion Channel-Set Moissanite Huggie Hoops - View 1 (Primary Front View)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": true
+      },
+      {
+        "id": "lus-012-img-2",
+        "url": "/images/products/lustre/lus-012-2.svg",
+        "alt": "Orion Channel-Set Moissanite Huggie Hoops - View 2 (Angle Perspective)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      },
+      {
+        "id": "lus-012-img-3",
+        "url": "/images/products/lustre/lus-012-3.svg",
+        "alt": "Orion Channel-Set Moissanite Huggie Hoops - View 3 (Detail Close-Up)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      }
+    ],
+    "createdAt": "2024-01-15T00:00:00.000Z",
+    "updatedAt": "2026-10-17T09:04:25.684Z"
+  }
+]

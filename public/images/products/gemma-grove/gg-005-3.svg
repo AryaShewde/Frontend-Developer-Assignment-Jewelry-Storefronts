@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%">
+    <rect width="400" height="400" fill="#f8f5fb"/>
+    <!-- Subtle inner vignette frame -->
+    <rect x="12" y="12" width="376" height="376" rx="8" fill="none" stroke="#c5a059" stroke-opacity="0.15" stroke-width="1"/>
+    
+      <defs>
+        <linearGradient id="bandGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#826322"/>
+          <stop offset="35%" stop-color="#c5a059"/>
+          <stop offset="65%" stop-color="#ffffff" stop-opacity="0.9"/>
+          <stop offset="100%" stop-color="#826322"/>
+        </linearGradient>
+        <radialGradient id="gemGrad" cx="40%" cy="35%" r="60%">
+          <stop offset="0%" stop-color="#ffffff"/>
+          <stop offset="45%" stop-color="#6366f1"/>
+          <stop offset="100%" stop-color="#6366f1"/>
+        </radialGradient>
+      </defs>
+
+      <g transform="rotate(-15 200 220) scale(1.15)">
+        <!-- Ring Shank/Band -->
+        <ellipse cx="200" cy="250" rx="95" ry="85" fill="none" stroke="url(#bandGrad)" stroke-width="22" stroke-linecap="round"/>
+        <ellipse cx="200" cy="250" rx="95" ry="85" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.4"/>
+        <ellipse cx="200" cy="250" rx="84" ry="74" fill="none" stroke="#f8f5fb" stroke-width="4"/>
+
+        <!-- Prongs Base -->
+        <rect x="188" y="152" width="24" height="20" rx="4" fill="url(#bandGrad)"/>
+        <path d="M178,160 L188,140 L212,140 L222,160 Z" fill="#c5a059" stroke="#826322" stroke-width="1.5"/>
+
+        <!-- Center Gemstone -->
+        
+      <g transform="translate(200, 134)">
+        <path d="M0,-38 C32,-6 38,20 0,36 C-38,20 -32,-6 0,-38 Z" fill="url(#gemGrad)" stroke="#6366f1" stroke-width="2"/>
+        <path d="M0,-24 C20,-4 24,14 0,24 C-24,14 -20,-4 0,-24 Z" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.7"/>
+        <circle cx="0" cy="-4" r="8" fill="#ffffff" opacity="0.5"/>
+      </g>
+    
+
+        <!-- Prongs Tips -->
+        <circle cx="178" cy="120" r="4" fill="url(#bandGrad)"/>
+        <circle cx="222" cy="120" r="4" fill="url(#bandGrad)"/>
+        <circle cx="178" cy="155" r="4" fill="url(#bandGrad)"/>
+        <circle cx="222" cy="155" r="4" fill="url(#bandGrad)"/>
+      </g>
+    
+  </svg>

@@ -1,0 +1,1154 @@
+[
+  {
+    "id": "aur-001",
+    "slug": "radiance-solitaire",
+    "brandId": "aurelle",
+    "name": "Radiance Solitaire Engagement Ring",
+    "description": "An iconic classic featuring a brilliant 1.50-carat round lab-grown diamond elevated in a timeless four-prong setting with a knife-edge band in warm 14k champagne gold.",
+    "shortDescription": "1.50ct round brilliant lab diamond in champagne gold",
+    "category": "Engagement Rings",
+    "subcategory": "Solitaire",
+    "price": 1850,
+    "compareAtPrice": 2150,
+    "metal": "14k Champagne Gold",
+    "gemstone": "Lab-Grown Diamond",
+    "stoneDetails": {
+      "type": "Lab-Grown Diamond",
+      "cut": "Round Brilliant",
+      "carat": 1.5,
+      "color": "E",
+      "clarity": "VVS1",
+      "certificate": "IGI Certified"
+    },
+    "rating": 4.9,
+    "reviewCount": 42,
+    "tags": [
+      "bestseller",
+      "classic",
+      "solitaire",
+      "lab-grown"
+    ],
+    "featured": true,
+    "variants": [
+      {
+        "id": "aur-001-v1",
+        "sku": "AUR-001-14KCG-6",
+        "name": "14k Champagne Gold / Size 6",
+        "price": 1850,
+        "inStock": true,
+        "metal": "14k Champagne Gold",
+        "size": "6"
+      },
+      {
+        "id": "aur-001-v2",
+        "sku": "AUR-001-14KCG-7",
+        "name": "14k Champagne Gold / Size 7",
+        "price": 1850,
+        "inStock": true,
+        "metal": "14k Champagne Gold",
+        "size": "7"
+      },
+      {
+        "id": "aur-001-v3",
+        "sku": "AUR-001-18KYG-6",
+        "name": "18k Yellow Gold / Size 6",
+        "price": 2050,
+        "inStock": true,
+        "metal": "18k Yellow Gold",
+        "size": "6"
+      },
+      {
+        "id": "aur-001-v4",
+        "sku": "AUR-001-PLAT-6",
+        "name": "Platinum / Size 6",
+        "price": 2250,
+        "inStock": false,
+        "metal": "Platinum",
+        "size": "6"
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Center Stone",
+        "value": "1.50 Carat Lab-Grown Diamond"
+      },
+      {
+        "label": "Cut & Symmetry",
+        "value": "Ideal / Hearts & Arrows"
+      },
+      {
+        "label": "Color & Clarity",
+        "value": "E / VVS1"
+      },
+      {
+        "label": "Band Width",
+        "value": "1.8 mm"
+      },
+      {
+        "label": "Certification",
+        "value": "IGI Official Lab Report Included"
+      }
+    ],
+    "images": [
+      {
+        "id": "aur-001-img-1",
+        "url": "/images/products/aurelle/aur-001-1.svg",
+        "alt": "Radiance Solitaire Engagement Ring - View 1 (Primary Front View)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": true
+      },
+      {
+        "id": "aur-001-img-2",
+        "url": "/images/products/aurelle/aur-001-2.svg",
+        "alt": "Radiance Solitaire Engagement Ring - View 2 (Angle Perspective)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      },
+      {
+        "id": "aur-001-img-3",
+        "url": "/images/products/aurelle/aur-001-3.svg",
+        "alt": "Radiance Solitaire Engagement Ring - View 3 (Detail Close-Up)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      }
+    ],
+    "createdAt": "2024-01-15T00:00:00.000Z",
+    "updatedAt": "2026-10-17T09:04:25.572Z"
+  },
+  {
+    "id": "aur-002",
+    "slug": "celestial-halo",
+    "brandId": "aurelle",
+    "name": "Celestial Cushion Halo Ring",
+    "description": "A romantic cushion-cut lab diamond enveloped by a luminous micropavé halo of conflict-free lab diamonds, resting atop a graceful tapered gallery.",
+    "shortDescription": "1.75ct cushion cut diamond with micropavé halo",
+    "category": "Engagement Rings",
+    "subcategory": "Halo",
+    "price": 2450,
+    "compareAtPrice": 2800,
+    "metal": "14k Champagne Gold",
+    "gemstone": "Lab-Grown Diamond",
+    "stoneDetails": {
+      "type": "Lab-Grown Diamond",
+      "cut": "Cushion Brilliant",
+      "carat": 1.75,
+      "color": "F",
+      "clarity": "VVS2",
+      "certificate": "IGI Certified"
+    },
+    "rating": 4.8,
+    "reviewCount": 38,
+    "tags": [
+      "bestseller",
+      "halo",
+      "romantic"
+    ],
+    "featured": true,
+    "variants": [
+      {
+        "id": "aur-002-v1",
+        "sku": "AUR-002-14KCG-6",
+        "name": "14k Champagne Gold / Size 6",
+        "price": 2450,
+        "inStock": true,
+        "metal": "14k Champagne Gold",
+        "size": "6"
+      },
+      {
+        "id": "aur-002-v2",
+        "sku": "AUR-002-14KCG-7",
+        "name": "14k Champagne Gold / Size 7",
+        "price": 2450,
+        "inStock": true,
+        "metal": "14k Champagne Gold",
+        "size": "7"
+      },
+      {
+        "id": "aur-002-v3",
+        "sku": "AUR-002-PLAT-6",
+        "name": "Platinum / Size 6",
+        "price": 2790,
+        "inStock": true,
+        "metal": "Platinum",
+        "size": "6"
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Center Stone",
+        "value": "1.75 Carat Cushion Cut Lab Diamond"
+      },
+      {
+        "label": "Halo Stones",
+        "value": "0.35ctw F/VS1 Lab Diamonds"
+      },
+      {
+        "label": "Band Width",
+        "value": "1.9 mm"
+      },
+      {
+        "label": "Setting Style",
+        "value": "French Pavé Cushion Halo"
+      }
+    ],
+    "images": [
+      {
+        "id": "aur-002-img-1",
+        "url": "/images/products/aurelle/aur-002-1.svg",
+        "alt": "Celestial Cushion Halo Ring - View 1 (Primary Front View)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": true
+      },
+      {
+        "id": "aur-002-img-2",
+        "url": "/images/products/aurelle/aur-002-2.svg",
+        "alt": "Celestial Cushion Halo Ring - View 2 (Angle Perspective)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      },
+      {
+        "id": "aur-002-img-3",
+        "url": "/images/products/aurelle/aur-002-3.svg",
+        "alt": "Celestial Cushion Halo Ring - View 3 (Detail Close-Up)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      }
+    ],
+    "createdAt": "2024-01-15T00:00:00.000Z",
+    "updatedAt": "2026-10-17T09:04:25.572Z"
+  },
+  {
+    "id": "aur-003",
+    "slug": "etoile-three-stone",
+    "brandId": "aurelle",
+    "name": "Étoile Three-Stone Oval Ring",
+    "description": "A striking 2.0-carat oval lab-grown center stone anchored by two custom-tapered diamond baguettes, celebrating past, present, and future.",
+    "shortDescription": "2.0ct oval diamond flanked by tapered baguettes",
+    "category": "Engagement Rings",
+    "subcategory": "Three-Stone",
+    "price": 3100,
+    "compareAtPrice": 3450,
+    "metal": "18k Yellow Gold",
+    "gemstone": "Lab-Grown Diamond",
+    "stoneDetails": {
+      "type": "Lab-Grown Diamond",
+      "cut": "Oval Brilliant",
+      "carat": 2,
+      "color": "D",
+      "clarity": "VVS1",
+      "certificate": "GCAL 8X"
+    },
+    "rating": 5,
+    "reviewCount": 29,
+    "tags": [
+      "new",
+      "three-stone",
+      "luxury"
+    ],
+    "featured": true,
+    "variants": [
+      {
+        "id": "aur-003-v1",
+        "sku": "AUR-003-18KYG-6",
+        "name": "18k Yellow Gold / Size 6",
+        "price": 3100,
+        "inStock": true,
+        "metal": "18k Yellow Gold",
+        "size": "6"
+      },
+      {
+        "id": "aur-003-v2",
+        "sku": "AUR-003-18KYG-7",
+        "name": "18k Yellow Gold / Size 7",
+        "price": 3100,
+        "inStock": true,
+        "metal": "18k Yellow Gold",
+        "size": "7"
+      },
+      {
+        "id": "aur-003-v3",
+        "sku": "AUR-003-PLAT-6",
+        "name": "Platinum / Size 6",
+        "price": 3450,
+        "inStock": false,
+        "metal": "Platinum",
+        "size": "6"
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Center Stone",
+        "value": "2.00 Carat Oval Cut Lab Diamond"
+      },
+      {
+        "label": "Side Stones",
+        "value": "0.40ctw Tapered Baguettes"
+      },
+      {
+        "label": "Color & Clarity",
+        "value": "D / VVS1"
+      },
+      {
+        "label": "Certification",
+        "value": "GCAL 8X Ultimate Cut"
+      }
+    ],
+    "images": [
+      {
+        "id": "aur-003-img-1",
+        "url": "/images/products/aurelle/aur-003-1.svg",
+        "alt": "Étoile Three-Stone Oval Ring - View 1 (Primary Front View)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": true
+      },
+      {
+        "id": "aur-003-img-2",
+        "url": "/images/products/aurelle/aur-003-2.svg",
+        "alt": "Étoile Three-Stone Oval Ring - View 2 (Angle Perspective)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      },
+      {
+        "id": "aur-003-img-3",
+        "url": "/images/products/aurelle/aur-003-3.svg",
+        "alt": "Étoile Three-Stone Oval Ring - View 3 (Detail Close-Up)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      }
+    ],
+    "createdAt": "2024-01-15T00:00:00.000Z",
+    "updatedAt": "2026-10-17T09:04:25.572Z"
+  },
+  {
+    "id": "aur-004",
+    "slug": "lumina-emerald-bezel",
+    "brandId": "aurelle",
+    "name": "Lumina Emerald Cut Bezel Ring",
+    "description": "Architectural refinement meets art deco geometry. A 2.20-carat emerald-cut lab diamond surrounded by a sleek, low-profile bezel setting.",
+    "shortDescription": "2.20ct emerald cut in modern flush bezel",
+    "category": "Engagement Rings",
+    "subcategory": "Bezel",
+    "price": 2890,
+    "metal": "14k Champagne Gold",
+    "gemstone": "Lab-Grown Diamond",
+    "stoneDetails": {
+      "type": "Lab-Grown Diamond",
+      "cut": "Emerald Step Cut",
+      "carat": 2.2,
+      "color": "E",
+      "clarity": "VS1",
+      "certificate": "IGI Certified"
+    },
+    "rating": 4.9,
+    "reviewCount": 24,
+    "tags": [
+      "modern",
+      "bezel",
+      "emerald-cut"
+    ],
+    "featured": false,
+    "variants": [
+      {
+        "id": "aur-004-v1",
+        "sku": "AUR-004-14KCG-6",
+        "name": "14k Champagne Gold / Size 6",
+        "price": 2890,
+        "inStock": true,
+        "metal": "14k Champagne Gold",
+        "size": "6"
+      },
+      {
+        "id": "aur-004-v2",
+        "sku": "AUR-004-14KCG-7",
+        "name": "14k Champagne Gold / Size 7",
+        "price": 2890,
+        "inStock": true,
+        "metal": "14k Champagne Gold",
+        "size": "7"
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Center Stone",
+        "value": "2.20 Carat Emerald Cut"
+      },
+      {
+        "label": "Setting Profile",
+        "value": "Low Profile Protective Bezel"
+      },
+      {
+        "label": "Band Width",
+        "value": "2.0 mm flat comfort fit"
+      }
+    ],
+    "images": [
+      {
+        "id": "aur-004-img-1",
+        "url": "/images/products/aurelle/aur-004-1.svg",
+        "alt": "Lumina Emerald Cut Bezel Ring - View 1 (Primary Front View)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": true
+      },
+      {
+        "id": "aur-004-img-2",
+        "url": "/images/products/aurelle/aur-004-2.svg",
+        "alt": "Lumina Emerald Cut Bezel Ring - View 2 (Angle Perspective)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      },
+      {
+        "id": "aur-004-img-3",
+        "url": "/images/products/aurelle/aur-004-3.svg",
+        "alt": "Lumina Emerald Cut Bezel Ring - View 3 (Detail Close-Up)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      }
+    ],
+    "createdAt": "2024-01-15T00:00:00.000Z",
+    "updatedAt": "2026-10-17T09:04:25.572Z"
+  },
+  {
+    "id": "aur-005",
+    "slug": "seraphina-oval-pave",
+    "brandId": "aurelle",
+    "name": "Seraphina Oval Pavé Engagement Ring",
+    "description": "An elongated 1.80-carat oval lab diamond suspended over a cathedral gallery with handset pavé diamonds lining the slender 1.6mm band.",
+    "shortDescription": "1.80ct oval diamond with delicate pavé band",
+    "category": "Engagement Rings",
+    "subcategory": "Pavé",
+    "price": 2350,
+    "compareAtPrice": 2600,
+    "metal": "14k Champagne Gold",
+    "gemstone": "Lab-Grown Diamond",
+    "stoneDetails": {
+      "type": "Lab-Grown Diamond",
+      "cut": "Oval Brilliant",
+      "carat": 1.8,
+      "color": "F",
+      "clarity": "VVS2",
+      "certificate": "IGI Certified"
+    },
+    "rating": 4.8,
+    "reviewCount": 51,
+    "tags": [
+      "bestseller",
+      "pave",
+      "oval"
+    ],
+    "featured": true,
+    "variants": [
+      {
+        "id": "aur-005-v1",
+        "sku": "AUR-005-14KCG-6",
+        "name": "14k Champagne Gold / Size 6",
+        "price": 2350,
+        "inStock": true,
+        "metal": "14k Champagne Gold",
+        "size": "6"
+      },
+      {
+        "id": "aur-005-v2",
+        "sku": "AUR-005-14KCG-7",
+        "name": "14k Champagne Gold / Size 7",
+        "price": 2350,
+        "inStock": true,
+        "metal": "14k Champagne Gold",
+        "size": "7"
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Center Stone",
+        "value": "1.80 Carat Oval Cut"
+      },
+      {
+        "label": "Side Diamonds",
+        "value": "0.28ctw micro-prong pavé"
+      },
+      {
+        "label": "Band Width",
+        "value": "1.6 mm petite shank"
+      }
+    ],
+    "images": [
+      {
+        "id": "aur-005-img-1",
+        "url": "/images/products/aurelle/aur-005-1.svg",
+        "alt": "Seraphina Oval Pavé Engagement Ring - View 1 (Primary Front View)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": true
+      },
+      {
+        "id": "aur-005-img-2",
+        "url": "/images/products/aurelle/aur-005-2.svg",
+        "alt": "Seraphina Oval Pavé Engagement Ring - View 2 (Angle Perspective)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      },
+      {
+        "id": "aur-005-img-3",
+        "url": "/images/products/aurelle/aur-005-3.svg",
+        "alt": "Seraphina Oval Pavé Engagement Ring - View 3 (Detail Close-Up)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      }
+    ],
+    "createdAt": "2024-01-15T00:00:00.000Z",
+    "updatedAt": "2026-10-17T09:04:25.572Z"
+  },
+  {
+    "id": "aur-006",
+    "slug": "heritage-vintage-milgrain",
+    "brandId": "aurelle",
+    "name": "Heritage Vintage Milgrain Ring",
+    "description": "Inspired by Edwardian romance, featuring delicate hand-applied milgrain edging, filigree gallery scrollwork, and a 1.40-carat round brilliant diamond.",
+    "shortDescription": "1.40ct vintage filigree ring with milgrain detailing",
+    "category": "Engagement Rings",
+    "subcategory": "Vintage",
+    "price": 2100,
+    "metal": "14k Champagne Gold",
+    "gemstone": "Lab-Grown Diamond",
+    "stoneDetails": {
+      "type": "Lab-Grown Diamond",
+      "cut": "Round Brilliant",
+      "carat": 1.4,
+      "color": "G",
+      "clarity": "VS1",
+      "certificate": "IGI Certified"
+    },
+    "rating": 4.7,
+    "reviewCount": 19,
+    "tags": [
+      "vintage",
+      "milgrain",
+      "artisan"
+    ],
+    "featured": false,
+    "variants": [
+      {
+        "id": "aur-006-v1",
+        "sku": "AUR-006-14KCG-6",
+        "name": "14k Champagne Gold / Size 6",
+        "price": 2100,
+        "inStock": true,
+        "metal": "14k Champagne Gold",
+        "size": "6"
+      },
+      {
+        "id": "aur-006-v2",
+        "sku": "AUR-006-PLAT-6",
+        "name": "Platinum / Size 6",
+        "price": 2450,
+        "inStock": true,
+        "metal": "Platinum",
+        "size": "6"
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Center Stone",
+        "value": "1.40 Carat Round Brilliant"
+      },
+      {
+        "label": "Craft Technique",
+        "value": "Hand-milled French milgrain & piercework"
+      },
+      {
+        "label": "Band Profile",
+        "value": "Slightly domed vintage profile"
+      }
+    ],
+    "images": [
+      {
+        "id": "aur-006-img-1",
+        "url": "/images/products/aurelle/aur-006-1.svg",
+        "alt": "Heritage Vintage Milgrain Ring - View 1 (Primary Front View)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": true
+      },
+      {
+        "id": "aur-006-img-2",
+        "url": "/images/products/aurelle/aur-006-2.svg",
+        "alt": "Heritage Vintage Milgrain Ring - View 2 (Angle Perspective)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      },
+      {
+        "id": "aur-006-img-3",
+        "url": "/images/products/aurelle/aur-006-3.svg",
+        "alt": "Heritage Vintage Milgrain Ring - View 3 (Detail Close-Up)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      }
+    ],
+    "createdAt": "2024-01-15T00:00:00.000Z",
+    "updatedAt": "2026-10-17T09:04:25.572Z"
+  },
+  {
+    "id": "aur-007",
+    "slug": "aurora-hidden-halo",
+    "brandId": "aurelle",
+    "name": "Aurora Hidden Halo Ring",
+    "description": "A discreet collar of micro-diamonds rests directly beneath the center 2.0-carat stone, visible only from profile views for understated brilliance.",
+    "shortDescription": "2.00ct round diamond with hidden collar halo",
+    "category": "Engagement Rings",
+    "subcategory": "Solitaire",
+    "price": 2680,
+    "compareAtPrice": 2950,
+    "metal": "14k Champagne Gold",
+    "gemstone": "Lab-Grown Diamond",
+    "stoneDetails": {
+      "type": "Lab-Grown Diamond",
+      "cut": "Round Brilliant",
+      "carat": 2,
+      "color": "E",
+      "clarity": "VVS2",
+      "certificate": "IGI Certified"
+    },
+    "rating": 4.9,
+    "reviewCount": 33,
+    "tags": [
+      "hidden-halo",
+      "modern",
+      "bestseller"
+    ],
+    "featured": false,
+    "variants": [
+      {
+        "id": "aur-007-v1",
+        "sku": "AUR-007-14KCG-6",
+        "name": "14k Champagne Gold / Size 6",
+        "price": 2680,
+        "inStock": true,
+        "metal": "14k Champagne Gold",
+        "size": "6"
+      },
+      {
+        "id": "aur-007-v2",
+        "sku": "AUR-007-14KCG-7",
+        "name": "14k Champagne Gold / Size 7",
+        "price": 2680,
+        "inStock": true,
+        "metal": "14k Champagne Gold",
+        "size": "7"
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Center Stone",
+        "value": "2.00 Carat Round Brilliant"
+      },
+      {
+        "label": "Hidden Detail",
+        "value": "16 pavé micro-diamonds beneath gallery"
+      },
+      {
+        "label": "Prong Count",
+        "value": "4 claw prongs"
+      }
+    ],
+    "images": [
+      {
+        "id": "aur-007-img-1",
+        "url": "/images/products/aurelle/aur-007-1.svg",
+        "alt": "Aurora Hidden Halo Ring - View 1 (Primary Front View)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": true
+      },
+      {
+        "id": "aur-007-img-2",
+        "url": "/images/products/aurelle/aur-007-2.svg",
+        "alt": "Aurora Hidden Halo Ring - View 2 (Angle Perspective)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      },
+      {
+        "id": "aur-007-img-3",
+        "url": "/images/products/aurelle/aur-007-3.svg",
+        "alt": "Aurora Hidden Halo Ring - View 3 (Detail Close-Up)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      }
+    ],
+    "createdAt": "2024-01-15T00:00:00.000Z",
+    "updatedAt": "2026-10-17T09:04:25.572Z"
+  },
+  {
+    "id": "aur-008",
+    "slug": "marquise-royale",
+    "brandId": "aurelle",
+    "name": "Marquise Royale Engagement Ring",
+    "description": "An elongated 1.65-carat marquise lab diamond secured with V-shaped tips, mounted on a softly tapered solid champagne gold band.",
+    "shortDescription": "1.65ct marquise diamond with V-tip protective prongs",
+    "category": "Engagement Rings",
+    "subcategory": "Solitaire",
+    "price": 2200,
+    "metal": "14k Champagne Gold",
+    "gemstone": "Lab-Grown Diamond",
+    "stoneDetails": {
+      "type": "Lab-Grown Diamond",
+      "cut": "Marquise Brilliant",
+      "carat": 1.65,
+      "color": "F",
+      "clarity": "VS1",
+      "certificate": "IGI Certified"
+    },
+    "rating": 4.8,
+    "reviewCount": 16,
+    "tags": [
+      "marquise",
+      "elongating",
+      "statement"
+    ],
+    "featured": false,
+    "variants": [
+      {
+        "id": "aur-008-v1",
+        "sku": "AUR-008-14KCG-6",
+        "name": "14k Champagne Gold / Size 6",
+        "price": 2200,
+        "inStock": true,
+        "metal": "14k Champagne Gold",
+        "size": "6"
+      },
+      {
+        "id": "aur-008-v2",
+        "sku": "AUR-008-14KCG-7",
+        "name": "14k Champagne Gold / Size 7",
+        "price": 2200,
+        "inStock": true,
+        "metal": "14k Champagne Gold",
+        "size": "7"
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Center Stone",
+        "value": "1.65 Carat Marquise Cut"
+      },
+      {
+        "label": "Length-to-Width Ratio",
+        "value": "1.85 : 1.00 (optimal spread)"
+      },
+      {
+        "label": "Prong Style",
+        "value": "Two V-caps & four rounded side claws"
+      }
+    ],
+    "images": [
+      {
+        "id": "aur-008-img-1",
+        "url": "/images/products/aurelle/aur-008-1.svg",
+        "alt": "Marquise Royale Engagement Ring - View 1 (Primary Front View)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": true
+      },
+      {
+        "id": "aur-008-img-2",
+        "url": "/images/products/aurelle/aur-008-2.svg",
+        "alt": "Marquise Royale Engagement Ring - View 2 (Angle Perspective)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      },
+      {
+        "id": "aur-008-img-3",
+        "url": "/images/products/aurelle/aur-008-3.svg",
+        "alt": "Marquise Royale Engagement Ring - View 3 (Detail Close-Up)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      }
+    ],
+    "createdAt": "2024-01-15T00:00:00.000Z",
+    "updatedAt": "2026-10-17T09:04:25.572Z"
+  },
+  {
+    "id": "aur-009",
+    "slug": "pear-silhouette",
+    "brandId": "aurelle",
+    "name": "Pear Silhouette Floating Ring",
+    "description": "A 1.90-carat teardrop pear diamond seemingly floating above a knife-edge gold shank with an asymmetric floating gallery.",
+    "shortDescription": "1.90ct pear diamond in open floating gallery",
+    "category": "Engagement Rings",
+    "subcategory": "Solitaire",
+    "price": 2590,
+    "metal": "14k Champagne Gold",
+    "gemstone": "Lab-Grown Diamond",
+    "stoneDetails": {
+      "type": "Lab-Grown Diamond",
+      "cut": "Pear Brilliant",
+      "carat": 1.9,
+      "color": "E",
+      "clarity": "VVS2",
+      "certificate": "IGI Certified"
+    },
+    "rating": 4.9,
+    "reviewCount": 22,
+    "tags": [
+      "pear",
+      "modern",
+      "new"
+    ],
+    "featured": false,
+    "variants": [
+      {
+        "id": "aur-009-v1",
+        "sku": "AUR-009-14KCG-6",
+        "name": "14k Champagne Gold / Size 6",
+        "price": 2590,
+        "inStock": true,
+        "metal": "14k Champagne Gold",
+        "size": "6"
+      },
+      {
+        "id": "aur-009-v2",
+        "sku": "AUR-009-14KCG-7",
+        "name": "14k Champagne Gold / Size 7",
+        "price": 2590,
+        "inStock": false,
+        "metal": "14k Champagne Gold",
+        "size": "7"
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Center Stone",
+        "value": "1.90 Carat Pear Cut"
+      },
+      {
+        "label": "Setting Style",
+        "value": "5-Prong floating basket with V-tip"
+      },
+      {
+        "label": "Metal Weight",
+        "value": "3.4 grams solid 14k gold"
+      }
+    ],
+    "images": [
+      {
+        "id": "aur-009-img-1",
+        "url": "/images/products/aurelle/aur-009-1.svg",
+        "alt": "Pear Silhouette Floating Ring - View 1 (Primary Front View)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": true
+      },
+      {
+        "id": "aur-009-img-2",
+        "url": "/images/products/aurelle/aur-009-2.svg",
+        "alt": "Pear Silhouette Floating Ring - View 2 (Angle Perspective)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      },
+      {
+        "id": "aur-009-img-3",
+        "url": "/images/products/aurelle/aur-009-3.svg",
+        "alt": "Pear Silhouette Floating Ring - View 3 (Detail Close-Up)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      }
+    ],
+    "createdAt": "2024-01-15T00:00:00.000Z",
+    "updatedAt": "2026-10-17T09:04:25.572Z"
+  },
+  {
+    "id": "aur-010",
+    "slug": "solstice-east-west",
+    "brandId": "aurelle",
+    "name": "Solstice East-West Emerald Ring",
+    "description": "A modern orientation where a 1.50-carat emerald-cut diamond is set horizontally along the finger in a minimalist four-corner prong cradle.",
+    "shortDescription": "1.50ct emerald diamond set horizontally",
+    "category": "Engagement Rings",
+    "subcategory": "East-West",
+    "price": 2150,
+    "metal": "14k Champagne Gold",
+    "gemstone": "Lab-Grown Diamond",
+    "stoneDetails": {
+      "type": "Lab-Grown Diamond",
+      "cut": "Emerald Step Cut",
+      "carat": 1.5,
+      "color": "F",
+      "clarity": "VS1",
+      "certificate": "IGI Certified"
+    },
+    "rating": 4.7,
+    "reviewCount": 14,
+    "tags": [
+      "east-west",
+      "minimalist",
+      "contemporary"
+    ],
+    "featured": false,
+    "variants": [
+      {
+        "id": "aur-010-v1",
+        "sku": "AUR-010-14KCG-6",
+        "name": "14k Champagne Gold / Size 6",
+        "price": 2150,
+        "inStock": true,
+        "metal": "14k Champagne Gold",
+        "size": "6"
+      },
+      {
+        "id": "aur-010-v2",
+        "sku": "AUR-010-14KCG-7",
+        "name": "14k Champagne Gold / Size 7",
+        "price": 2150,
+        "inStock": true,
+        "metal": "14k Champagne Gold",
+        "size": "7"
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Center Stone",
+        "value": "1.50 Carat Emerald Cut"
+      },
+      {
+        "label": "Orientation",
+        "value": "Horizontal East-West Layout"
+      },
+      {
+        "label": "Band Type",
+        "value": "Comfort-fit rectangular wire"
+      }
+    ],
+    "images": [
+      {
+        "id": "aur-010-img-1",
+        "url": "/images/products/aurelle/aur-010-1.svg",
+        "alt": "Solstice East-West Emerald Ring - View 1 (Primary Front View)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": true
+      },
+      {
+        "id": "aur-010-img-2",
+        "url": "/images/products/aurelle/aur-010-2.svg",
+        "alt": "Solstice East-West Emerald Ring - View 2 (Angle Perspective)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      },
+      {
+        "id": "aur-010-img-3",
+        "url": "/images/products/aurelle/aur-010-3.svg",
+        "alt": "Solstice East-West Emerald Ring - View 3 (Detail Close-Up)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      }
+    ],
+    "createdAt": "2024-01-15T00:00:00.000Z",
+    "updatedAt": "2026-10-17T09:04:25.572Z"
+  },
+  {
+    "id": "aur-011",
+    "slug": "clarity-twisted-shank",
+    "brandId": "aurelle",
+    "name": "Clarity Entwined Pavé Ring",
+    "description": "Two strands of gold—one polished and one handset with micro-diamonds—intertwine seamlessly toward a 1.35-carat round brilliant center stone.",
+    "shortDescription": "1.35ct round brilliant with braided pavé band",
+    "category": "Engagement Rings",
+    "subcategory": "Pavé",
+    "price": 1980,
+    "metal": "14k Champagne Gold",
+    "gemstone": "Lab-Grown Diamond",
+    "stoneDetails": {
+      "type": "Lab-Grown Diamond",
+      "cut": "Round Brilliant",
+      "carat": 1.35,
+      "color": "E",
+      "clarity": "VS1",
+      "certificate": "IGI Certified"
+    },
+    "rating": 4.8,
+    "reviewCount": 27,
+    "tags": [
+      "twist",
+      "intertwined",
+      "pave"
+    ],
+    "featured": false,
+    "variants": [
+      {
+        "id": "aur-011-v1",
+        "sku": "AUR-011-14KCG-6",
+        "name": "14k Champagne Gold / Size 6",
+        "price": 1980,
+        "inStock": true,
+        "metal": "14k Champagne Gold",
+        "size": "6"
+      },
+      {
+        "id": "aur-011-v2",
+        "sku": "AUR-011-14KCG-7",
+        "name": "14k Champagne Gold / Size 7",
+        "price": 1980,
+        "inStock": true,
+        "metal": "14k Champagne Gold",
+        "size": "7"
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Center Stone",
+        "value": "1.35 Carat Round Brilliant"
+      },
+      {
+        "label": "Accent Stones",
+        "value": "0.22ctw micro-prong diamonds"
+      },
+      {
+        "label": "Symbolism",
+        "value": "Two lives intertwined in harmony"
+      }
+    ],
+    "images": [
+      {
+        "id": "aur-011-img-1",
+        "url": "/images/products/aurelle/aur-011-1.svg",
+        "alt": "Clarity Entwined Pavé Ring - View 1 (Primary Front View)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": true
+      },
+      {
+        "id": "aur-011-img-2",
+        "url": "/images/products/aurelle/aur-011-2.svg",
+        "alt": "Clarity Entwined Pavé Ring - View 2 (Angle Perspective)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      },
+      {
+        "id": "aur-011-img-3",
+        "url": "/images/products/aurelle/aur-011-3.svg",
+        "alt": "Clarity Entwined Pavé Ring - View 3 (Detail Close-Up)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      }
+    ],
+    "createdAt": "2024-01-15T00:00:00.000Z",
+    "updatedAt": "2026-10-17T09:04:25.572Z"
+  },
+  {
+    "id": "aur-012",
+    "slug": "monarch-split-shank",
+    "brandId": "aurelle",
+    "name": "Monarch Radiant Split-Shank Ring",
+    "description": "A showstopping 2.50-carat radiant-cut lab diamond supported by an open split-shank band encrusted with two rows of brilliant pavé diamonds.",
+    "shortDescription": "2.50ct radiant cut on double pavé split shank",
+    "category": "Engagement Rings",
+    "subcategory": "Split-Shank",
+    "price": 3650,
+    "compareAtPrice": 4100,
+    "metal": "14k Champagne Gold",
+    "gemstone": "Lab-Grown Diamond",
+    "stoneDetails": {
+      "type": "Lab-Grown Diamond",
+      "cut": "Radiant Cut",
+      "carat": 2.5,
+      "color": "D",
+      "clarity": "VVS1",
+      "certificate": "IGI Certified"
+    },
+    "rating": 5,
+    "reviewCount": 31,
+    "tags": [
+      "statement",
+      "radiant",
+      "luxury",
+      "split-shank"
+    ],
+    "featured": true,
+    "variants": [
+      {
+        "id": "aur-012-v1",
+        "sku": "AUR-012-14KCG-6",
+        "name": "14k Champagne Gold / Size 6",
+        "price": 3650,
+        "inStock": true,
+        "metal": "14k Champagne Gold",
+        "size": "6"
+      },
+      {
+        "id": "aur-012-v2",
+        "sku": "AUR-012-PLAT-6",
+        "name": "Platinum / Size 6",
+        "price": 3990,
+        "inStock": true,
+        "metal": "Platinum",
+        "size": "6"
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Center Stone",
+        "value": "2.50 Carat Radiant Cut"
+      },
+      {
+        "label": "Band Diamonds",
+        "value": "0.45ctw pavé diamond accents"
+      },
+      {
+        "label": "Band Width",
+        "value": "3.2 mm widening at split shoulder"
+      }
+    ],
+    "images": [
+      {
+        "id": "aur-012-img-1",
+        "url": "/images/products/aurelle/aur-012-1.svg",
+        "alt": "Monarch Radiant Split-Shank Ring - View 1 (Primary Front View)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": true
+      },
+      {
+        "id": "aur-012-img-2",
+        "url": "/images/products/aurelle/aur-012-2.svg",
+        "alt": "Monarch Radiant Split-Shank Ring - View 2 (Angle Perspective)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      },
+      {
+        "id": "aur-012-img-3",
+        "url": "/images/products/aurelle/aur-012-3.svg",
+        "alt": "Monarch Radiant Split-Shank Ring - View 3 (Detail Close-Up)",
+        "width": 800,
+        "height": 800,
+        "isPrimary": false
+      }
+    ],
+    "createdAt": "2024-01-15T00:00:00.000Z",
+    "updatedAt": "2026-10-17T09:04:25.572Z"
+  }
+]
