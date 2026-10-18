@@ -4,6 +4,7 @@ import { useLocation } from 'react-router-dom';
 import Header from './Header';
 import Footer from './Footer';
 import Breadcrumbs from './Breadcrumbs';
+import { CartDrawer } from './CartDrawer';
 
 interface LayoutProps {
   children: ReactNode;
@@ -22,24 +23,25 @@ const Layout: React.FC<LayoutProps> = ({ children, showBreadcrumbs = true }) => 
   }, [location.pathname]);
 
   return (
-    <div className="min-h-screen flex flex-col bg-background">
+    <div className="min-h-screen flex flex-col bg-background text-foreground transition-colors">
       <Header />
 
-      <main className="flex-grow">
+      <main className="grow">
         {/* Breadcrumbs (optional) */}
         {showBreadcrumbs && location.pathname !== '/' && (
-          <div className="container mx-auto px-4 py-4">
+          <div className="container mx-auto px-4 sm:px-6 pt-4 max-w-7xl">
             <Breadcrumbs />
           </div>
         )}
 
         {/* Page content */}
-        <div className="container mx-auto px-4 py-8">
+        <div className="container mx-auto px-4 sm:px-6 py-6 sm:py-8 max-w-7xl">
           {children}
         </div>
       </main>
 
       <Footer />
+      <CartDrawer />
     </div>
   );
 };

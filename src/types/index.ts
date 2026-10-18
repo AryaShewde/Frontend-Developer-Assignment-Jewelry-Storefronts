@@ -73,7 +73,8 @@ export type ProductSortOption =
   | 'price-asc'
   | 'price-desc'
   | 'rating-desc'
-  | 'name-asc';
+  | 'name-asc'
+  | 'newest';
 
 export interface ProductFilterOptions {
   category?: string;
@@ -157,6 +158,12 @@ export interface CartItem {
   variantId: string;
   quantity: number;
   addedAt: string;
+  productName?: string;
+  variantName?: string;
+  price?: number;
+  imageUrl?: string;
+  brandId?: 'aurelle' | 'gemma-grove' | 'lustre';
+  slug?: string;
 }
 
 export interface Cart {

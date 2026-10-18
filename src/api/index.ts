@@ -286,6 +286,9 @@ export const api = {
       case 'name-asc':
         results.sort((a, b) => a.name.localeCompare(b.name));
         break;
+      case 'newest':
+        results.sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime() || a.name.localeCompare(b.name));
+        break;
       case 'featured':
       default:
         results.sort((a, b) => (b.featured ? 1 : 0) - (a.featured ? 1 : 0) || a.name.localeCompare(b.name));
