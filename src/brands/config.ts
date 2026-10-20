@@ -127,25 +127,25 @@ export const brandThemes: Record<string, BrandTheme> = {
     description: 'Moissanite rings and earrings',
     domain: 'lustre.com',
     colors: {
-      primary: '#000000', // Black
-      secondary: '#212121', // Dark gray
-      accent: '#ffffff', // White accent
-      background: '#000000',
-      foreground: '#ffffff', // White text on dark
-      muted: '#9e9e9e', // Medium gray
-      border: '#424242', // Dark gray border
+      primary: '#2563eb', // Elegant blue
+      secondary: '#1e40af', // Darker blue
+      accent: '#3b82f6', // Bright blue accent
+      background: '#ffffff',
+      foreground: '#1a1a2e', // Dark navy for text
+      muted: '#6b7280', // Muted gray
+      border: '#e5e7eb', // Light gray border
       neutral: {
-        50: '#fafafa',
-        100: '#f5f5f5',
-        200: '#eeeeee',
-        300: '#e0e0e0',
-        400: '#bdbdbd',
-        500: '#9e9e9e',
-        600: '#757575',
-        700: '#616161',
-        800: '#424242',
-        900: '#212121',
-        950: '#000000',
+        50: '#f9fafb',
+        100: '#f3f4f6',
+        200: '#e5e7eb',
+        300: '#d1d5db',
+        400: '#9ca3af',
+        500: '#6b7280',
+        600: '#4b5563',
+        700: '#374151',
+        800: '#1f2937',
+        900: '#111827',
+        950: '#030712',
       },
     },
     typography: {

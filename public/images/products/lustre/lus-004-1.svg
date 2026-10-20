@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%">
-    <rect width="400" height="400" fill="#0d1117"/>
+    <rect width="400" height="400" fill="#fdf6e3"/>
     <!-- Subtle inner vignette frame -->
     <rect x="12" y="12" width="376" height="376" rx="8" fill="none" stroke="#e2e8f0" stroke-opacity="0.15" stroke-width="1"/>
     
@@ -21,7 +21,7 @@
         <!-- Ring Shank/Band -->
         <ellipse cx="200" cy="250" rx="95" ry="85" fill="none" stroke="url(#bandGrad)" stroke-width="22" stroke-linecap="round"/>
         <ellipse cx="200" cy="250" rx="95" ry="85" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.4"/>
-        <ellipse cx="200" cy="250" rx="84" ry="74" fill="none" stroke="#0d1117" stroke-width="4"/>
+        <ellipse cx="200" cy="250" rx="84" ry="74" fill="none" stroke="#fdf6e3" stroke-width="4"/>
 
         <!-- Prongs Base -->
         <rect x="188" y="152" width="24" height="20" rx="4" fill="url(#bandGrad)"/>

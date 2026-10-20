@@ -759,7 +759,13 @@ const ProductListingPage: React.FC<ProductListingPageProps> = ({ brandId }) => {
                       </span>
                     )}
                     {product.tags.includes('new') && (
-                      <span className="text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded shadow-xs bg-neutral-900 text-white">
+                      <span
+                        className="text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded shadow-xs"
+                        style={{
+                          backgroundColor: theme.colors.primary,
+                          color: theme.id === 'lustre' ? theme.colors.foreground : '#ffffff',
+                        }}
+                      >
                         New
                       </span>
                     )}

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%">
-    <rect width="400" height="400" fill="#0d1117"/>
+    <rect width="400" height="400" fill="#fdf6e3"/>
     <!-- Subtle inner vignette frame -->
     <rect x="12" y="12" width="376" height="376" rx="8" fill="none" stroke="#e2e8f0" stroke-opacity="0.15" stroke-width="1"/>
     

@@ -75,10 +75,10 @@ export const CartDrawer: React.FC = () => {
       <div className="fixed inset-y-0 right-0 flex max-w-full pl-10">
         <div
           ref={drawerRef}
-          className="w-screen max-w-md bg-background border-l border-border flex flex-col shadow-2xl transition-transform duration-300 ease-in-out"
+          className="w-screen max-w-md bg-white border-l border-gray-200 flex flex-col shadow-2xl transition-transform duration-300 ease-in-out"
         >
           {/* Header */}
-          <div className="p-4 sm:p-6 border-b border-border flex items-center justify-between bg-neutral-50/50">
+          <div className="p-4 sm:p-6 border-b border-gray-200 flex items-center justify-between bg-white">
             <div className="flex items-center space-x-2">
               <ShoppingBag className="w-5 h-5 text-primary" />
               <h2 className="text-lg font-semibold tracking-tight text-foreground font-brand-display">
@@ -87,7 +87,7 @@ export const CartDrawer: React.FC = () => {
             </div>
             <button
               onClick={closeCart}
-              className="p-2 rounded-full hover:bg-neutral-200/60 text-muted hover:text-foreground transition-colors touch-target flex items-center justify-center"
+              className="p-2 rounded-full bg-gray-100 hover:bg-gray-200 text-gray-600 hover:text-gray-900 transition-colors touch-target flex items-center justify-center"
               aria-label="Close bag"
             >
               <X className="w-5 h-5" />
@@ -95,7 +95,7 @@ export const CartDrawer: React.FC = () => {
           </div>
 
           {/* Free Shipping Meter */}
-          <div className="px-4 sm:px-6 py-3 bg-neutral-100/60 border-b border-border text-xs">
+          <div className="px-4 sm:px-6 py-3 bg-gray-50 border-b border-gray-200 text-xs">
             {amountAwayFromFreeShipping === 0 ? (
               <div className="flex items-center text-emerald-700 font-medium">
                 <Truck className="w-4 h-4 mr-1.5 shrink-0" />
@@ -107,7 +107,7 @@ export const CartDrawer: React.FC = () => {
                   <span>Add <strong>{formatPrice(amountAwayFromFreeShipping)}</strong> for free shipping</span>
                   <span className="font-semibold text-foreground">{Math.round(freeShippingProgress)}%</span>
                 </div>
-                <div className="w-full bg-neutral-200 h-1.5 rounded-full overflow-hidden">
+                <div className="w-full bg-gray-200 h-1.5 rounded-full overflow-hidden">
                   <div
                     className="bg-primary h-full transition-all duration-300 rounded-full"
                     style={{ width: `${freeShippingProgress}%` }}
@@ -118,10 +118,10 @@ export const CartDrawer: React.FC = () => {
           </div>
 
           {/* Items List */}
-          <div className="flex-1 overflow-y-auto p-4 sm:p-6 space-y-4 divide-y divide-border/60">
+          <div className="flex-1 overflow-y-auto p-4 sm:p-6 space-y-4 divide-y divide-gray-100">
             {cart.items.length === 0 ? (
               <div className="h-full flex flex-col items-center justify-center text-center p-6 space-y-4">
-                <div className="w-16 h-16 rounded-full bg-neutral-100 flex items-center justify-center text-muted">
+                <div className="w-16 h-16 rounded-full bg-gray-100 flex items-center justify-center text-gray-500">
                   <ShoppingBag className="w-8 h-8" />
                 </div>
                 <div className="space-y-1">
@@ -134,21 +134,21 @@ export const CartDrawer: React.FC = () => {
                   <Link
                     to="/aurelle/engagement-rings"
                     onClick={closeCart}
-                    className="w-full py-2.5 px-4 text-xs font-semibold rounded-md border border-border text-foreground hover:bg-neutral-50 text-center transition-colors"
+                    className="w-full py-2.5 px-4 text-xs font-semibold rounded-md border border-gray-300 text-gray-800 hover:bg-gray-50 text-center transition-colors"
                   >
                     Aurelle Engagement Rings
                   </Link>
                   <Link
                     to="/gemma-grove/gemstone-rings"
                     onClick={closeCart}
-                    className="w-full py-2.5 px-4 text-xs font-semibold rounded-md border border-border text-foreground hover:bg-neutral-50 text-center transition-colors"
+                    className="w-full py-2.5 px-4 text-xs font-semibold rounded-md border border-gray-300 text-gray-800 hover:bg-gray-50 text-center transition-colors"
                   >
                     Gemma &amp; Grove Gemstones
                   </Link>
                   <Link
                     to="/lustre/moissanite-rings"
                     onClick={closeCart}
-                    className="w-full py-2.5 px-4 text-xs font-semibold rounded-md border border-border text-foreground hover:bg-neutral-50 text-center transition-colors"
+                    className="w-full py-2.5 px-4 text-xs font-semibold rounded-md border border-gray-300 text-gray-800 hover:bg-gray-50 text-center transition-colors"
                   >
                     Lustre Moissanite Collection
                   </Link>
@@ -161,7 +161,7 @@ export const CartDrawer: React.FC = () => {
                 return (
                   <div key={item.id} className="pt-4 first:pt-0 flex space-x-4">
                     {/* Thumbnail */}
-                    <div className="w-20 h-20 rounded-md border border-border bg-neutral-100 overflow-hidden shrink-0">
+                    <div className="w-20 h-20 rounded-md border border-gray-200 bg-gray-50 overflow-hidden shrink-0">
                       {item.imageUrl ? (
                         <img
                           src={item.imageUrl}
@@ -217,18 +217,18 @@ export const CartDrawer: React.FC = () => {
                         <div className="flex items-center border border-border rounded">
                           <button
                             onClick={() => updateQuantity(item.id, item.quantity - 1)}
-                            className="p-1 hover:bg-neutral-100 text-foreground transition-colors disabled:opacity-40"
+                            className="p-1 hover:bg-gray-100 text-foreground transition-colors disabled:opacity-40"
                             aria-label="Decrease quantity"
                             disabled={item.quantity <= 1}
                           >
                             <Minus className="w-3.5 h-3.5" />
                           </button>
-                          <span className="px-2 text-xs font-semibold text-foreground min-w-[1.75rem] text-center">
+                          <span className="px-2 text-xs font-semibold text-gray-900 min-w-7 text-center">
                             {item.quantity}
                           </span>
                           <button
                             onClick={() => updateQuantity(item.id, item.quantity + 1)}
-                            className="p-1 hover:bg-neutral-100 text-foreground transition-colors"
+                            className="p-1 hover:bg-gray-100 text-foreground transition-colors"
                             aria-label="Increase quantity"
                           >
                             <Plus className="w-3.5 h-3.5" />
@@ -248,7 +248,7 @@ export const CartDrawer: React.FC = () => {
 
           {/* Footer Summary (if items present) */}
           {cart.items.length > 0 && (
-            <div className="p-4 sm:p-6 border-t border-border bg-neutral-50/50 space-y-4">
+            <div className="p-4 sm:p-6 border-t border-gray-200 bg-white space-y-4">
               <div className="space-y-1.5 text-xs">
                 <div className="flex justify-between text-muted">
                   <span>Subtotal</span>
